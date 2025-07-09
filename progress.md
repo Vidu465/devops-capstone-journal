@@ -14,3 +14,7 @@
 - Learned about `chmod`, `chown`, and `grep`, `find`
 - Created a note file with summarized commands
 - Made my first daily commit to GitHub from WSL
+
+### ✅ july 9
+
+- Absolute vs Relative Paths
