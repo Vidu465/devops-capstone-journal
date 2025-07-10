@@ -16,5 +16,7 @@
 - Made my first daily commit to GitHub from WSL
 
 ### ✅ july 9
-
 - Absolute vs Relative Paths
+
+### ✅ july 10
+- Using "whatis" and "man"
