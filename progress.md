@@ -20,3 +20,6 @@
 
 ### ✅ july 10
 - Using "whatis" and "man"
+
+### ✅ july 11
+- Practiced Bash Shell
