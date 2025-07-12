@@ -23,3 +23,6 @@
 
 ### ✅ july 11
 - Practiced Bash Shell
+
+### ✅ july 11
+-bash shell
