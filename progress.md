@@ -26,3 +26,4 @@
 
 ### ✅ july 11
 -bash shell
+-key concepts
